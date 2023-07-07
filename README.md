@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Gunther's Frog: New Landscapes and New Habitats"
+       title="Günther's Frog: New Landscapes and New Habitats"
        author="Sun Woo Yoon"
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
