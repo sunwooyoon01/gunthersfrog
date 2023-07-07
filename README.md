@@ -24,15 +24,39 @@ The Günther’s frog is a large brown frog, typically about 7-10 cm in width, w
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg"
-       title="Photograph of Günther's Frog (*Hylarana guentheri*)" 
+       title="Photograph of Günther's Frog (Hylarana guentheri)" 
        description="A Günther's frog amongst lily pads."
        attribution="Thomas Brown">
 
 With regards to their taxonomic history, the species was first described in 1882 in Xiamen, southeastern China, although the species is distributed throughout the subtropical regions of East and Southeast Asia, including Hong Kong, Taiwan, southern China, and Vietnam. The species prefers swampy habitats, and has been found to adapt well to cleared lands, such as agricultural fields. In Singapore, the species is one of a handful of Singapore’s non-native anuran species that has adapted itself to disturbed, decorated, and regrown habitats around the island.  It is described as “widespread but uncommon” by a review of non-indigenous frogs of Singapore, although a majority of the species’ accounts in Singapore are from either the northwest (Kranji, Lim Chu Kang, Sungei Buloh) or the southwest (primarily, the Jurong Bird Park). It is unknown whether the two groups are related, or were introduced to Singapore through completely different pathways. Some postulate that the Sungei Lanchar canal may serve as a connecting bridge for the movement of the species in Singapore, but this cannot yet be confirmed without further studies. 
 
+<param ve-map center="1.35, 103.9" zoom="11">
+<param ve-map-marker
+       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
+       coords="1.3621, 103.8198"
+       size="38, 95"
+       iconAnchor="22, 94"
+       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
+       shadowSize="50, 64">
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
+       coords="1.4126, 103.9577"
+       size="129, 170"
+       circle="true">
+
 This points to the elusive nature of the species’ presence in Singapore. Accounts of the species are sparse to begin with: the first sighting of the species only occurred in 2008, although various accounts note *hearing* the frogs’ distinctive croaking as early as 1997, at the Jurong Bird Park. In other words, the presence of the species was confirmed visually over ten years after it was first heard—this time in an “artificial pond at the entrance of the Southeast Asian Aviary” at the Sungei Buloh Nature Reserve.
 
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/7/70/Sungei_Buloh_Wetland_Reserve_sunset%2C_Singapore_-_49424439187.jpg"
+       title="Photograph of Sungei Buloh Nature Reserve, 2020" 
+       attribution="cattan2011">
+
 What should be made of the apparent connection with birds and aviaries? While there is no evidence of a clear link between any captive bird species and the Günther’s frog, a compelling hypothesis regarding the frog’s introduction pathway sheds some light: it is thought that the species were introduced through ornamental plants, these plants making up a significant part of the ecologies of both the Jurong Bird Park and Sungei Buloh (and the northwestern region of Singapore, in general). An ecological characteristic of both northwestern and southwestern Singapore are their “human-made natures”—hybrid ecologies composed of imported ornamental plants and conserved local flora. In fact, in *Cultural Heritage and Peripheral Spaces in Singapore*, urban historian T.W. Lim argues that the ecologies of northern Singapore are meticulously constructed to appear natural: “[...] the sensitive recreation of a wild environment based on local ecology reflects Lefebvre’s concept of a tokonoma (a created man-made alcove with stylised flower arrangement but carried out to reflect nature as closely as possible).” Such seems significant given international accounts of the Günther’s frog detailing its ability to flourish in man-made environments, and more recent accounts of the Günther’s frog in Yishun and the Singapore Botanic Gardens all seem to support this hypothesis. Such is further supported by the story of the species’ introduction to Guam, where its introduction pathway is understood to have been through the importation of fish food and ornamental aquatic plants. This is rather intriguing—a changed landscape, in Singapore’s case, is thus both pathway and result of the Günther’s frog’s introduction into Singapore. 
+
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980005150-8073-3222-0235/img0044.jpg"
+       title="Visitors in Kranji Orchid Farm, 1964" 
+       attribution="National Archives of Singapore">
 
 Thus, the environmental changes that have affected northwestern Singapore over the years are important in understanding not only how the Gunther’s frog arrived in Singapore, but further what the presence of the Günther’s frog means in terms of how land is treated, and the symptoms and effects of this treatment. Such is elucidated when considering the history of northwestern Singapore and the major shifts in land use and development that occurred over the past century. 
 
