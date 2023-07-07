@@ -60,48 +60,36 @@ What should be made of the apparent connection with birds and aviaries? While th
 
 Thus, the environmental changes that have affected northwestern Singapore over the years are important in understanding not only how the Gunther’s frog arrived in Singapore, but further what the presence of the Günther’s frog means in terms of how land is treated, and the symptoms and effects of this treatment. Such is elucidated when considering the history of northwestern Singapore and the major shifts in land use and development that occurred over the past century. 
 
-The regions of Kranji, Lim Chu Kang, and Sungei Buloh remember a long history of various radical changes. In 1890, this region was set aside as a forest reserve and purposefully isolated from development. However, with the construction of the Singapore-Kranji Railway in 1903, Kranji became a transport hub and economic activity gradually increased until 1938, when the region lost its reserve status. The following decades saw an increase in timber and construction industries, and by the mid-1970s the ecology of the region was largely degraded as it became both an industrial hub and an advantageous location for the expansion of agricultural and aquacultural farms, namely the rearing of prawn and fish. 
+The regions of Kranji, Lim Chu Kang, and Sungei Buloh remember a long history of various radical changes. In 1890, this region was set aside as a forest reserve and purposefully isolated from development. However, with the construction of the Singapore-Kranji Railway in 1903, Kranji became a transport hub and economic activity gradually increased until 1938, when the region lost its reserve status. The following decades saw an increase in timber and construction industries, and by the mid-1970s the ecology of the region was largely degraded as it became both an industrial hub and an advantageous location for the expansion of agricultural and aquacultural farms, namely the rearing of prawn and fish.
+
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980001339-8529-3201-2919/img0033.jpg"
+       title="Prawn Pond at Serangoon, 1958" 
+       attribution="Ministry of Information and the Arts (MITA)">
 
 However, the following decade saw an important change in the increasing industrialization of the region given calls by citizens and nature groups in Singapore who saw the ecological value of preserving the region. In 1986, the Singapore Branch of the Malayan Nature Society called on the government to preserve what was left of the reserve, and an appreciation for Sungei Buloh in particular shot into the public imagination. Thus, to restore and preserve the important biodiversity of the region while providing recreational naturespace to citizens, the Singapore government began the development of the Sungei Buloh Nature Park in 1990. The construction of the park took three years, and was inaugurated by the then-prime minister Goh Chok Tong in late 1993. By 2002, the park’s popularity and apparent ecological importance led to its expansion from 87 to a whopping 130 hectares, and became Singapore’s first wetlands reserve. The newly renamed Sungei Buloh Wetland Reserve attempted to restore the parts of the region that were disturbed through the strategic replanting of local species, and by 2003 became listed as an ASEAN Heritage Park. The Sungei Buloh Wetland Reserve boasts a commitment to “the conservation of the wetland through conservation, research, education, and recreation,” and continues to attract numerous visitors to this day.
 
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19990000070-8262-3202-0303/img0072.jpg"
+       title="Prime Minister Goh Chok Tong delivering opening speech at the inauguration of the Sungei Buloh Nature Reserve, 1993" 
+       attribution="Ministry of Information and the Arts (MITA)">
+
 Discursively, the area can be understood as a site of contention regarding how land should be used in Singapore—countless arguments, debates, and letters by citizens and governmental agencies alike over the decades have put forth their own ideas towards how Singapore should balance nature and city in this particular site, perhaps precisely because this site has undergone so many changes in the past few decades. Northwestern Singapore seems to continue to pose the question: what exactly does it mean to be a Garden City? The spirit of change continues to affect the region even today, with the most recent announcement that farms in Lim Chu Kang and Kranji will be shut down in order to gazette more land to the Singapore military. From railways to urban development, from local farms to military zones, the region can almost be thought of as a large-scale national sandbox—a kind of experimental terra nullius that sits at the whims of policy and change. While this kind of land reserve is useful for Singapore’s national development, ecological perspectives point towards the kinds of life that exist at the edges.
 
-Changed landscapes thus figure into the story of the Günther’s frog in rather important ways. Not only is there a story about ornamentation—about fashionable botany and stylish greenery, but also about histories and land-use changes. It seems to me no coincidence that the name ‘Sungei Buloh’, meaning ‘river of bamboo’ in Malay, is rather ironic, since the site hosts neither a river nor an established bamboo species. A nature education group based in Kranji notes that “there is a possibility of presence of bamboo in the area in the past but not now.” While the site aims to preserve a kind of ecological heritage of Singapore, it is also clear that the region itself has been changed in indelible ways over the course of its many changes throughout the years. The notion of what constitutes a ‘natural habitat’ is thus complicated, and the quiet presence of the Günther’s frog is a testament to the reflexive processes that make, unmake, and remake landscapes and habitats. 
-       
-## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
-
-*This makes things italics*. 
-
-This is how you add a footnote. [^1]
-
-[This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
-
-This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
-You can find the wikidata IDs by searching for proper nouns [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
-
-**There's no spell-check feature built in, so keep a careful eye out!**
-
-## Adding Images
-       
-You can use the QID tag within a sentence. For example: The <span eid="Q170662">mangosteen</span> is a non-native fruit found in Singapore. This is the code you use to add an image. Make sure to **close the tag**. It starts with **<param ve-image** and ends with a closing **>**. Within these tags, you can add information to help the program locate and describe the image. **While these examples are images, we can also include textual sources (particularly primary sources) in the media viewer where appropriate.**
-<param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       title="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
-       
-<span eid="Q271648">Marianne North</span> painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875. You can also include "attribution" in the image information.
-<param ve-image 
-       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_577-001.jpg"
-       title="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
-       description="Held by Kew Gardens."
-       attribution="Marianne North"
-       license="CC BY-NC">
-       
-These are both examples of images added *from urls*. This is the preferred method. However, there might be some images you have to upload yourself. That's totally fine! Ideally, these files should be *as small as possible* and only .jpg or .png files will work. You should create a folder in your repository called "media" and upload the file there. Then, for the url, just copy and paste the item path: "media/{filename}.jpg". For more information on adding multiple images, comparisons, curtain sliders, and for how to zoom into particular sections of an image, check out the documentation [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag).
 <param ve-image 
        url="media/victoria-crowned=pigeon.jpg"
        title="Victoria crowned pigeon"
-       attribution="Katherine Enright">     
+       attribution="Katherine Enright"> 
+       
+Changed landscapes thus figure into the story of the Günther’s frog in rather important ways. Not only is there a story about ornamentation—about fashionable botany and stylish greenery, but also about histories and land-use changes. It seems to me no coincidence that the name ‘Sungei Buloh’, meaning ‘river of bamboo’ in Malay, is rather ironic, since the site hosts neither a river nor an established bamboo species. A nature education group based in Kranji notes that “there is a possibility of presence of bamboo in the area in the past but not now.” While the site aims to preserve a kind of ecological heritage of Singapore, it is also clear that the region itself has been changed in indelible ways over the course of its many changes throughout the years. The notion of what constitutes a ‘natural habitat’ is thus complicated, and the quiet presence of the Günther’s frog is a testament to the reflexive processes that make, unmake, and remake landscapes and habitats. 
+
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sungei_Buloh_Wetlands.jpg/1600px-Sungei_Buloh_Wetlands.jpg?20190430101839"
+       title="Sungei Buloh Nature Reserve, 2015" 
+       attribution="Jimmy Tan">
+       
+
+
 ## Map
 
 Mangosteens are found in Singapore. This takes a base map and sets the center to Singapore. The code after creates markers for different species, for instance, or to mark particular places on a map.
@@ -124,16 +112,6 @@ You can create custom regions just by drawing shapes (no coding needed) using [g
 
 <param ve-map center="1.35, 103.9" zoom="2">
 <param ve-map-layer geojson url="/media/demomap.geojson" title="Sample Distribution"> 
-
-## Add a YouTube Video
-You can take the id from the YouTube URL. You can also define the start time with start="0:20" (for instance).
-<param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
-
-
-## Add a Timeline
-This uses the [Knightlab platform](https://timeline.knightlab.com/). The back-end, for you to use, will just be a googlesheets (so it's user friendly!). Here's an example:
-<param ve-knightlab-timeline source="1T9E8QZRT7ZFFmb55uLpJUSnELKuqSsXlLmNuVXvOC_I" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
-
 
 ## Multiple viewers
 
