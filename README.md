@@ -6,6 +6,20 @@
 
 A satellite image of northwestern Singapore reveals comparatively more green than the rest of the island, the density and scale of green only matched by the reservoirs found in Singapore’s more central regions. This northwestern area, comprising Kranji, Lim Chu Kang, and the Sungei Buloh Wetland Reserve, is one of the homes of the non-native Günther’s frog (*Hylarana guentheri*), a slippery and elusive immigrant. Tracing the environmental history of this region reveals insights about the introduction and establishment of these understudied frogs in Singapore, and in this story are layered stories about land use, habitat change, and Singapore’s modernization.
 
+<param ve-map center="1.35, 103.9" zoom="11">
+<param ve-map-marker
+       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
+       coords="1.3621, 103.8198"
+       size="38, 95"
+       iconAnchor="22, 94"
+       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
+       shadowSize="50, 64">
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
+       coords="1.4126, 103.9577"
+       size="129, 170"
+       circle="true">
+
 The Günther’s frog is a large brown frog, typically about 7-10 cm in width, with prominent dorsolateral folds on both of its sides. It feeds on smaller frogs and insects, and is known to be able to secrete a toxic fluid that can kill other species and chemically defend the organism from microbial infection. The fluid is rather special: chemical biologists are interested in the peptides that make up the species’ skin secretions for their antimicrobial properties and their potential pharmacological applications. The authors of one early study on the skin secretions of the Günther’s frog attribute the strength and significance of their peptides to a fact of evolutionary biology: “Amphibians being the first group of organisms forming a connecting link between land and water are forced to adapt and survive in a variety of conditions laden with pathogenic microbes.” Some of the first to cross onto land from sea in evolutionary history, the species developed systems of defense to explore new frontiers and new habitats.
 
 With regards to their taxonomic history, the species was first described in 1882 in Xiamen, southeastern China, although the species is distributed throughout the subtropical regions of East and Southeast Asia, including Hong Kong, Taiwan, southern China, and Vietnam. The species prefers swampy habitats, and has been found to adapt well to cleared lands, such as agricultural fields. In Singapore, the species is one of a handful of Singapore’s non-native anuran species that has adapted itself to disturbed, decorated, and regrown habitats around the island.  It is described as “widespread but uncommon” by a review of non-indigenous frogs of Singapore, although a majority of the species’ accounts in Singapore are from either the northwest (Kranji, Lim Chu Kang, Sungei Buloh) or the southwest (primarily, the Jurong Bird Park). It is unknown whether the two groups are related, or were introduced to Singapore through completely different pathways. Some postulate that the Sungei Lanchar canal may serve as a connecting bridge for the movement of the species in Singapore, but this cannot yet be confirmed without further studies. 
