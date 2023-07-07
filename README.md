@@ -1,7 +1,7 @@
 <param ve-config 
        title="Günther's Frog: New Landscapes and New Habitats"
        author="Sun Woo Yoon"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/3/35/Hylarana_guentheri_2.jpg"
        layout="vertical">
 
 A satellite image of northwestern Singapore reveals comparatively more green than the rest of the island, the density and scale of green only matched by the reservoirs found in Singapore’s more central regions. This northwestern area, comprising Kranji, Lim Chu Kang, and the Sungei Buloh Wetland Reserve, is one of the homes of the non-native Günther’s frog (*Hylarana guentheri*), a slippery and elusive immigrant. Tracing the environmental history of this region reveals insights about the introduction and establishment of these understudied frogs in Singapore, and in this story are layered stories about land use, habitat change, and Singapore’s modernization.
