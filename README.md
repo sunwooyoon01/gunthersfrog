@@ -53,7 +53,12 @@ What should be made of the apparent connection with birds and aviaries? While th
        title="Visitors in Kranji Orchid Farm, 1964" 
        attribution="National Archives of Singapore">
 
-Thus, the environmental changes that have affected northwestern Singapore over the years are important in understanding not only how the Gunther’s frog arrived in Singapore, but further what the presence of the Günther’s frog *means* in terms of how land is treated, and the symptoms and effects of this treatment. Such is elucidated when considering the history of northwestern Singapore and the major shifts in land use and development that occurred over the past century. 
+Thus, the environmental changes that have affected northwestern Singapore over the years are important in understanding not only how the Gunther’s frog arrived in Singapore, but further what the presence of the Günther’s frog *means* in terms of how land is treated, and the symptoms and effects of this treatment. Such is elucidated when considering the history of northwestern Singapore and the major shifts in land use and development that occurred over the past century.
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Admiralty_Chart_No_2586_Eastern_Portion_of_Johore_Strait_%28Singapore_Old_Strait%29_Pulo_Ubin_to_Sungi_Kranji%2C_Published_1924.jpg/640px-Admiralty_Chart_No_2586_Eastern_Portion_of_Johore_Strait_%28Singapore_Old_Strait%29_Pulo_Ubin_to_Sungi_Kranji%2C_Published_1924.jpg"
+       title="Admiralty Chart of the Eastern Portion of Johore Strait (Singapore Old Strait), Pulau Ubin to Sungi Kranji, Published 1924" 
+       attribution="United Kingdom Hydrographic Office"
+       license="Public Domain">
 
 The regions of Kranji, Lim Chu Kang, and Sungei Buloh remember a long history of various radical changes. In 1890, this region was set aside as a forest reserve and purposefully isolated from development.[^18] However, with the construction of the Singapore-Kranji Railway in 1903, Kranji became a transport hub and economic activity gradually increased until 1938, when the region lost its reserve status.[^19] The following decades saw an increase in timber and construction industries,[^20] and by the mid-1970s the ecology of the region was largely degraded as it became both an industrial hub and an advantageous location for the expansion of agricultural and aquacultural farms, namely the rearing of prawn and fish.[^21]
 <param ve-image 
