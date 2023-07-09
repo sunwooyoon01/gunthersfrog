@@ -78,40 +78,6 @@ Changed landscapes thus figure into the story of the Günther’s frog in rather
        attribution="Jimmy Tan">
        
 
-
-## Map
-
-Mangosteens are found in Singapore. This takes a base map and sets the center to Singapore. The code after creates markers for different species, for instance, or to mark particular places on a map.
-<param ve-map center="1.35, 103.9" zoom="11">
-<param ve-map-marker
-       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
-       coords="1.3621, 103.8198"
-       size="38, 95"
-       iconAnchor="22, 94"
-       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
-       shadowSize="50, 64">
-<param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
-       coords="1.4126, 103.9577"
-       size="129, 170"
-       circle="true">
-    
-    
-You can create custom regions just by drawing shapes (no coding needed) using [geojson.io](https://geojson.io/#map=2/0/20). Then you can download the shape file and add it to your juncture media file as a map layer. Let's imagine this is the distribution range of your species.
-
-<param ve-map center="1.35, 103.9" zoom="2">
-<param ve-map-layer geojson url="/media/demomap.geojson" title="Sample Distribution"> 
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       title="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
-<param ve-map center="Q334" zoom="11" prefer-geojson>
-
 # References
 
 [^1]: Leong, Tzi Ming, and Kelvin K. P. Lim. “Occurrence of Günther’s Frog, Hylarana Guentheri (Amphibia: Anura: Ranidae) in Singapore.” *Nature in Singapore* 4 (June 6, 2011), 135.
