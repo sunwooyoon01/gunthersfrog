@@ -14,6 +14,22 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/G%C3%BCnther%27s_
        coords="1.445582, 103.724738"
        size="129, 170"
        circle="true">
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg/640px-G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg"
+       coords="1.321016, 103.707152"
+       size="129, 170"
+       circle="true">
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg/640px-G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg"
+       coords="1.423702, 103.842163"
+       size="129, 170"
+       circle="true">
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg/640px-G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg"
+       coords="1.311342, 103.815690"
+       size="129, 170"
+       circle="true">
+
 
 The Günther’s frog is a medium to large brown frog, typically about 7-10 cm in length, with prominent dorsolateral folds on both of its sides. It feeds on smaller frogs and insects, and is known to be able to secrete a toxic fluid that can kill other species [^2] and chemically defend the organism from microbial infection.[^3] The fluid is rather special: chemical biologists are interested in the peptides that make up the species’ skin secretions for their antimicrobial properties and their potential pharmacological applications. The authors of one early study on the skin secretions of the Günther’s frog attribute the strength and significance of their peptides to a fact of evolutionary biology: “Amphibians being the first group of organisms forming a connecting link between land and water are forced to adapt and survive in a variety of conditions laden with pathogenic microbes.”[^4] Some of the first to cross onto land from sea in evolutionary history, the species developed systems of defense to explore new frontiers and new habitats.
 
