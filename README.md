@@ -6,8 +6,14 @@
 
 A satellite image of northwestern Singapore reveals comparatively more green than the rest of the island, the density and scale of green only matched by the reservoirs found in Singapore’s more central regions. This northwestern area, comprising Kranji, Lim Chu Kang, and the Sungei Buloh Wetland Reserve, is one of the homes of the non-native Günther’s frog (*Hylarana guentheri*),[^1] a slippery and elusive immigrant. Tracing the environmental history of this region reveals insights about the introduction and establishment of these understudied frogs in Singapore, and in this story are layered stories about land use, habitat change, and Singapore’s modernization.
 
-<param ve-map center="25.378457, 108.219217" zoom="4">
-<param ve-map-layer geojson url="/media/map.geojson" title="Approximate native distribution of Hylarana guentheri"> 
+<param ve-map center="1.35, 103.9" 
+       zoom="11"
+       title="Sightings of Hylarana Guentheri in Singapore>
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg/640px-G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg"
+       coords="1.445582, 103.724738"
+       size="129, 170"
+       circle="true">
 
 The Günther’s frog is a medium to large brown frog, typically about 7-10 cm in length, with prominent dorsolateral folds on both of its sides. It feeds on smaller frogs and insects, and is known to be able to secrete a toxic fluid that can kill other species [^2] and chemically defend the organism from microbial infection.[^3] The fluid is rather special: chemical biologists are interested in the peptides that make up the species’ skin secretions for their antimicrobial properties and their potential pharmacological applications. The authors of one early study on the skin secretions of the Günther’s frog attribute the strength and significance of their peptides to a fact of evolutionary biology: “Amphibians being the first group of organisms forming a connecting link between land and water are forced to adapt and survive in a variety of conditions laden with pathogenic microbes.”[^4] Some of the first to cross onto land from sea in evolutionary history, the species developed systems of defense to explore new frontiers and new habitats.
 
@@ -19,19 +25,8 @@ The Günther’s frog is a medium to large brown frog, typically about 7-10 cm i
 
 With regards to their taxonomic history, the species was first described in 1882 in Xiamen, southeastern China, although the species is distributed throughout the subtropical regions of East and Southeast Asia, including Hong Kong, Taiwan, southern China, and Vietnam. The species prefers swampy habitats, and has been found to adapt well to cleared lands, such as agricultural fields.[^5] In Singapore, the species is one of a handful of Singapore’s non-native anuran species[^6] that has adapted itself to disturbed, decorated, and regrown habitats around the island.[^7]  It is described as “widespread but uncommon” by a review of non-indigenous frogs of Singapore,[^8] although a majority of the species’ accounts in Singapore are from either the northwest (Kranji, Lim Chu Kang, Sungei Buloh) or the southwest (primarily, the Jurong Bird Park).[^9] It is unknown whether the two groups are related, or were introduced to Singapore through completely different pathways. Some postulate that the Sungei Lanchar canal may serve as a connecting bridge for the movement of the species in Singapore, but this cannot yet be confirmed without further studies.[^10] 
 
-<param ve-map center="1.35, 103.9" zoom="11">
-<param ve-map-marker
-       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
-       coords="1.3621, 103.8198"
-       size="38, 95"
-       iconAnchor="22, 94"
-       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
-       shadowSize="50, 64">
-<param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
-       coords="1.4126, 103.9577"
-       size="129, 170"
-       circle="true">
+<param ve-map center="25.378457, 108.219217" zoom="4">
+<param ve-map-layer geojson url="/media/map.geojson" title="Approximate native distribution of Hylarana guentheri"> 
 
 This points to the elusive nature of the species’ presence in Singapore. Accounts of the species are sparse to begin with: the first sighting of the species only occurred in 2008, although various accounts note *hearing* the frogs’ distinctive croaking as early as 1997, at the Jurong Bird Park.[^11] In other words, the presence of the species was confirmed visually over ten years after it was first heard—this time in an “artificial pond at the entrance of the Southeast Asian Aviary” at the Sungei Buloh Nature Reserve.[^12]
 
