@@ -8,7 +8,7 @@ A satellite image of northwestern Singapore reveals comparatively more green tha
 
 <param ve-map center="1.35, 103.9" 
        zoom="11"
-       title="Sightings of Hylarana Guentheri in Singapore>
+       title="Sightings of Hylarana Guentheri in Singapore">
 <param ve-map-marker
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg/640px-G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg"
        coords="1.445582, 103.724738"
