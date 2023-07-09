@@ -6,7 +6,7 @@
 
 A satellite image of northwestern Singapore reveals comparatively more green than the rest of the island, the density and scale of green only matched by the reservoirs found in Singapore’s more central regions. This northwestern area, comprising Kranji, Lim Chu Kang, and the Sungei Buloh Wetland Reserve, is one of the homes of the non-native Günther’s frog (*Hylarana guentheri*),[^1] a slippery and elusive immigrant. Tracing the environmental history of this region reveals insights about the introduction and establishment of these understudied frogs in Singapore, and in this story are layered stories about land use, habitat change, and Singapore’s modernization.
 
-<param ve-map center="1.35, 103.9" zoom="11">
+<param ve-map center="25.378457, 108.219217" zoom="11">
 <param ve-map-marker
        url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
        coords="1.3621, 103.8198"
