@@ -77,9 +77,9 @@ However, the following decade saw an important change in the increasing industri
 Discursively, the area can be understood as a site of contention regarding how land should be used in Singapore—countless arguments, debates, and letters by citizens and governmental agencies alike over the decades have put forth their own ideas towards how Singapore should balance nature and city in this particular site, perhaps precisely because this site has undergone so many changes in the past few decades. Northwestern Singapore seems to continue to pose the question: what exactly does it mean to be a Garden City? The spirit of change continues to affect the region even today, with the most recent announcement that farms in Lim Chu Kang and Kranji will be shut down in order to gazette more land to the Singapore military.[^27] From railways to urban development, from local farms to military zones, the region can almost be thought of as a large-scale national sandbox—a kind of experimental terra nullius that sits at the whims of policy and change. While this kind of land reserve is useful for Singapore’s national development, ecological perspectives point towards the kinds of life that exist at the edges.
 
 <param ve-image 
-       url="media/victoria-crowned=pigeon.jpg"
-       title="Victoria crowned pigeon"
-       attribution="Katherine Enright"> 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kranji_Way_-_panoramio.jpg/640px-Kranji_Way_-_panoramio.jpg"
+       title="Ornamental plant nursery at Kranji Way" 
+       attribution="Qingwu Zhou">
        
 Changed landscapes thus figure into the story of the Günther’s frog in rather important ways. Not only is there a story about ornamentation—about fashionable botany and stylish greenery, but also about histories and land-use changes. It seems to me no coincidence that the name ‘Sungei Buloh’, meaning ‘river of bamboo’ in Malay, is rather ironic, since the site hosts neither a river nor an established bamboo species. A nature education group based in Kranji notes that “there is a possibility of presence of bamboo in the area in the past but not now.”[^28] While the site aims to preserve a kind of ecological heritage of Singapore, it is also clear that the region itself has been changed in indelible ways over the course of its many changes throughout the years. The notion of what constitutes a ‘natural habitat’ is thus complicated, and the quiet presence of the Günther’s frog is a testament to the reflexive processes that make, unmake, and remake landscapes and habitats. 
 
